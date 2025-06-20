@@ -1,0 +1,5 @@
+npm run dev
+
+./presubmission.sh https://github.com/Aseel205/FullStack_submission "C:/Users/aseel/OneDrive/Desktop/6th semester/FullStack/assigments/FullStack-hw3/backend/.env"
+
+
